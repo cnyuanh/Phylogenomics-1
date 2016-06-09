@@ -1,0 +1,1 @@
+~/software/meme_4.9.0/scripts/meme ids_from_pep_aln2.pep.fsa_from_mega.fas  -o ortho1807_2 -protein -nmotifs 10 -minw 10 -maxw 300
