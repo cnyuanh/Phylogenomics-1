@@ -1,0 +1,2 @@
+R --vanilla --slave < ./temp.R 
+
