@@ -1,0 +1,2 @@
+/Users/zhenzhenyang/software/subread-1.5.0-p1-MacOSX-x86_64/bin/featureCounts -s 0 -t gene -g gene_id -a ../ref.gff -o StHe52G_readPE_samtools_sorted_RG.bam.featureCounts.txt StHe52G_readPE_samtools_sorted_RG.bam 
+
